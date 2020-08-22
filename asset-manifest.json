@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/squalolee.github.io/ClickyGame/static/css/main.5f361e03.chunk.css",
+    "main.js": "/squalolee.github.io/ClickyGame/static/js/main.485f35ef.chunk.js",
+    "main.js.map": "/squalolee.github.io/ClickyGame/static/js/main.485f35ef.chunk.js.map",
+    "runtime-main.js": "/squalolee.github.io/ClickyGame/static/js/runtime-main.cbe79e6a.js",
+    "runtime-main.js.map": "/squalolee.github.io/ClickyGame/static/js/runtime-main.cbe79e6a.js.map",
+    "static/js/2.763b34e5.chunk.js": "/squalolee.github.io/ClickyGame/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/squalolee.github.io/ClickyGame/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/squalolee.github.io/ClickyGame/index.html",
+    "precache-manifest.36c0aad80f920808844b1f75123e547d.js": "/squalolee.github.io/ClickyGame/precache-manifest.36c0aad80f920808844b1f75123e547d.js",
+    "service-worker.js": "/squalolee.github.io/ClickyGame/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/squalolee.github.io/ClickyGame/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/squalolee.github.io/ClickyGame/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/squalolee.github.io/ClickyGame/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbe79e6a.js",
+    "static/js/2.763b34e5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.485f35ef.chunk.js"
+  ]
+}
